@@ -55,7 +55,7 @@ ROOT_URLCONF = 'familiares.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [r"C:\Users\Lihuel\Desktop\MVT_Lihuel_Seifert\familiares\familiares\templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
